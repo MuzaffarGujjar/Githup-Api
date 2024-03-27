@@ -1,3 +1,3 @@
 # Github Api
-Github Api in HTML CSS and JAVASCRIPT
+Github Api Data Fetcher in HTML CSS and JAVASCRIPT
 Must Try
